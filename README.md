@@ -1,4 +1,4 @@
-# IntroText
+** IntroText **
 GBC COMP-1238 Course - Intro to Data Management.
 
 See the [summaries/](/summaries/) folder for lecture note summaries by week.
